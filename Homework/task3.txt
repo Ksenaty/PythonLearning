@@ -1,0 +1,6 @@
+Prokoviev 29000
+Smirnov 61000
+Aleseev 19000
+Pavlichev 21000
+Skorohod 12000
+Bond 80000
